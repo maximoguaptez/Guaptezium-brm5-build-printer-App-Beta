@@ -4,3 +4,4 @@ To use Guaptezium make a creation in roblox studio and select all the parts you 
 there is a gui the speed you place stuff if up to you it shows how long the build will take in the bottum left faster speed result in more errors safezone is around the starting specs
 Please report any errors to either maximoguaptez@gmail.com or to MoltenMegaGames/Maximoguaptez on discord this is only a beta some bugs are to be expected
 Also if you are useing this in your build please credit me or the tool this took me a while to make
+!!!!!!!!!! MAKE SURE YOU HAVE PYTHON INSTALLED https://www.python.org/downloads/ !!!!!!!!!!!!!!!
