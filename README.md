@@ -13,3 +13,6 @@ there is a gui the speed you place stuff if up to you it shows how long the buil
 Please report any errors to either maximoguaptez@gmail.com or to MoltenMegaGames/Maximoguaptez on discord or the discussions page https://github.com/maximoguaptez/Guaptezium-brm5-build-printer-App-Beta/discussions this is only a beta some bugs are to be expected
 Also if you are useing this in your build please credit me or the tool this took me a while to make
 !!!!!!!!!! MAKE SURE YOU HAVE PYTHON INSTALLED IF IT IST LOADING https://www.python.org/downloads/ !!!!!!!!!!!!!!!
+
+Ignore Don Toliver
+https://youtu.be/Rzdi6FSmB2M
