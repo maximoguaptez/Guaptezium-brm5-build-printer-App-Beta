@@ -1,3 +1,11 @@
+## ⬇️ Download
+
+**[Get the latest Guaptezium.exe →](https://github.com/maximoguaptez/Guaptezium-brm5-build-printer-App-Beta/releases/latest/download/Guaptezium.exe)**
+
+No installation needed — just download and double-click.
+
+---
+
 # Guaptezium-brm5-build-printer-App-Beta
 Guaptezium is a custom built app for BRM5's Realtime Game Editor it is meant to take stuff placed in roblox studio
 To use Guaptezium make a creation in roblox studio and select all the parts you want and right click on them in the menu on the right and hit download or save and save as a rbxmx file you can load this straight into Guaptezium
