@@ -1,6 +1,6 @@
 ## ⬇️ Download
 
-**[Get the latest Guaptezium.exe →](https://github.com/maximoguaptez/Guaptezium-brm5-build-printer-App-Beta/releases/latest/download/Guaptezium.exe)**
+**[Get the latest Guaptezium.exe →](sha256:b161b7788f514cdaafe3cd9230b6a16c57c953c4a6cc7f14e97f36ada9f08dd7)**
 
 No installation needed — just download and double-click.
 
